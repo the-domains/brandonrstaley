@@ -1,0 +1,28 @@
+name: BrandonRStaley
+favicon: null
+layout_spectrum: 0.7659688324201852
+typography_spectrum: 0.6318026825319976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9151787054724991
+  lightness: 0.19435898284427822
+  saturation: 0.634587928885594
+  rhythmicContrast: 0.7805644781328738
+purpose: []
